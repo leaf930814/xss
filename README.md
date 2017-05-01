@@ -1,4 +1,4 @@
-   跨站脚本攻击(Cross Site Scripting)，为不和层叠样式表(Cascading Style Sheets, CSS)的缩写混淆，故将跨站脚本攻击缩写为XSS。
+       跨站脚本攻击(Cross Site Scripting)，为不和层叠样式表(Cascading Style Sheets, CSS)的缩写混淆，故将跨站脚本攻击缩写为XSS。
    恶意攻击者往Web页面里插入恶意Script代码，当用户浏览该页之时，嵌入其中Web里面的Script代码会被执行，从而达到恶意攻击用户的目的,
    还有另外一种产常见的就是CSRF。    
 
@@ -17,3 +17,5 @@
     3.没有响应的软件自动攻击
     4.需要有一定的语言基础
     5.这是一种被动的攻击手法
+    
+ 还有一个特点就是：几乎所有的网站都存在Xss 谷歌，百度，QQ都有。
